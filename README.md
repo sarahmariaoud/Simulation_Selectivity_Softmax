@@ -5,6 +5,6 @@
 ## Running
 
 On a Mac the code can be run as follows:
-''bash bash/buildmac.sh ''
+```bash bash/buildmac.sh ```
 
 
